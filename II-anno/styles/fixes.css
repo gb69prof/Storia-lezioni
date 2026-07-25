@@ -1,0 +1,36 @@
+/* Correzioni operative: evidenziazioni, salvataggio e ingrandimento degli schemi. */
+.color-chip[data-highlight-color="yellow"]{background:#ffe68a}
+.color-chip[data-highlight-color="green"]{background:#b9e7c9}
+.color-chip[data-highlight-color="blue"]{background:#b9dff5}
+.color-chip[data-highlight-color="pink"]{background:#f3bed3}
+.patch-study-status{margin:.7rem 0 0;padding:.55rem .65rem;border-radius:10px;background:var(--surface-2);line-height:1.4}
+.save-error{color:var(--bad)!important;font-weight:700}
+.note-item strong,.note-item small,.note-item>span{display:block}
+.note-item>span{margin-top:.25rem;color:var(--muted);font-size:.82rem}
+#patchNotesInfo{max-width:75ch}
+.patch-expand-visual{margin:0 0 .8rem auto;display:flex;align-items:center;gap:.4rem;background:var(--surface-2)}
+#mappa .concept-wrap{cursor:zoom-in}
+.patch-visual-dialog{width:min(1400px,calc(100% - 1rem));max-width:none;height:min(94vh,1000px);max-height:none;padding:0;border:0;background:transparent}
+.patch-visual-dialog::backdrop{background:rgba(0,0,0,.72);backdrop-filter:blur(3px)}
+.patch-visual-card{height:100%;display:flex;flex-direction:column;overflow:hidden;background:var(--surface);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow)}
+.patch-visual-toolbar{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:.65rem .8rem;border-bottom:1px solid var(--line);background:var(--surface)}
+.patch-visual-toolbar>div{display:flex;gap:.35rem;align-items:center}
+.patch-visual-toolbar button{min-width:44px;padding:.45rem .7rem}
+.patch-visual-viewport{flex:1;overflow:auto;padding:1rem;background:var(--surface-2);overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+.patch-visual-content{transform-origin:top left;transition:transform .15s ease}
+.patch-visual-content .concept-map{display:block;width:100%;height:auto;max-width:none}
+.patch-visual-content .flow{min-width:720px}
+.patch-visual-content .flow-step{font-size:1.05rem}
+@media(max-width:960px){
+  .patch-study-status{font-size:.75rem;margin:.45rem 0}
+  .patch-expand-visual{margin-left:0}
+}
+@media(max-width:700px){
+  .patch-visual-dialog{width:100%;height:100%;margin:0}
+  .patch-visual-card{border:0;border-radius:0}
+  .patch-visual-toolbar{align-items:flex-start;position:sticky;top:0;z-index:2}
+  .patch-visual-toolbar>strong{max-width:42%;font-size:.78rem;line-height:1.25}
+  .patch-visual-toolbar button{min-width:39px;padding:.4rem .5rem}
+  .patch-visual-viewport{padding:.55rem}
+}
+@media print{.patch-expand-visual,.patch-visual-dialog{display:none!important}}
