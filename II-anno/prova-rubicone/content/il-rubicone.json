@@ -1,0 +1,134 @@
+{
+  "id": "il-rubicone",
+  "title": "Il Rubicone",
+  "subtitle": "L’inizio della guerra civile",
+  "period": "49–45 a.C.",
+  "duration": 18,
+  "problem": "Perché attraversare un piccolo fiume trasformò una crisi politica in guerra civile?",
+  "intro": "Nel gennaio del 49 a.C. un confine quasi insignificante divenne il simbolo del crollo delle regole repubblicane. La lezione ricostruisce il gesto di Cesare, le sue giustificazioni e le conseguenze militari e politiche.",
+  "blocks": [
+    {
+      "id": "rubicone-ultimatum",
+      "title": "L’ultimatum del Senato",
+      "text": "Nel gennaio del 49 a.C. il Senato ordinò a Cesare di deporre il comando. I tribuni della plebe Marco Antonio e Cassio Longino, schierati con lui, lasciarono Roma e raggiunsero il suo campo. Cesare presentò la loro fuga come prova della violazione dei diritti tribunizi. Il Senato approvò il senatus consultum ultimum, affidando ai magistrati il compito di difendere lo Stato."
+    },
+    {
+      "id": "rubicone-passaggio",
+      "title": "Il passaggio del confine",
+      "text": "A quel punto Cesare prese la decisione decisiva. Attraversò con la XIII legione il Rubicone, il piccolo fiume che segnava il limite della sua provincia. Un proconsole non poteva entrare armato in Italia. Quel passaggio trasformò la crisi politica in guerra civile."
+    },
+    {
+      "id": "rubicone-legittimazione",
+      "title": "La giustificazione di Cesare",
+      "text": "La tradizione ha concentrato tutta la scena in una frase: «il dado è tratto». Non possiamo sapere con certezza quali parole Cesare pronunciò, né se le pronunciò. Sappiamo invece ciò che fece. Entrò in Italia con soldati sotto il proprio comando e dichiarò di agire in difesa della dignitas, dei tribuni e della libertà del popolo."
+    },
+    {
+      "id": "rubicone-clemenza",
+      "title": "L’avanzata e la clemenza",
+      "text": "Pompeo e gran parte dei senatori non tentarono di difendere Roma. Abbandonarono l’Italia e attraversarono l’Adriatico per organizzare la guerra in Oriente. Cesare avanzò rapidamente, conquistando città e ottenendo rese. La sua clemenza verso molti avversari aveva una funzione politica precisa: mostrare che non avrebbe ripetuto le proscrizioni di Silla e isolare Pompeo come responsabile della continuazione della guerra."
+    },
+    {
+      "id": "rubicone-farsalo",
+      "title": "Dalla Spagna a Farsalo",
+      "text": "Prima di inseguire Pompeo, Cesare andò in Spagna, dove si trovavano importanti forze pompeiane. Le sconfisse e tornò poi verso la Grecia. A Durazzo subì un grave rovescio; a Farsalo, nel 48 a.C., ottenne la vittoria decisiva. Pompeo fuggì in Egitto, sperando di trovare protezione. Fu invece assassinato per ordine della corte tolemaica prima che Cesare arrivasse."
+    },
+    {
+      "id": "rubicone-pompeo",
+      "title": "Cesare davanti alla morte di Pompeo",
+      "text": "Le fonti raccontano che Cesare pianse davanti alla testa del rivale. È possibile che il dolore fosse sincero, ed è certo che l’assassinio di un grande cittadino romano da parte di una corte straniera gli offrì anche una potente occasione politica. Pompeo sconfitto poteva essere perdonato; Pompeo morto diventava un simbolo che Cesare poteva onorare."
+    },
+    {
+      "id": "rubicone-campagne-finali",
+      "title": "Le guerre successive",
+      "text": "In Egitto Cesare intervenne nella lotta dinastica fra Tolomeo XIII e Cleopatra VII. Rimase coinvolto nella guerra alessandrina e sostenne Cleopatra. La relazione fra i due fu politica e personale. Da quell’unione nacque probabilmente Tolomeo Cesare, chiamato Cesarione, ma Cesare non lo riconobbe come erede romano. La guerra civile proseguì. In Asia Cesare sconfisse rapidamente Farnace del Ponto; la formula veni, vidi, vici sintetizzò la velocità della campagna. In Africa vinse a Tapso contro le forze repubblicane. Catone si uccise a Utica, rifiutando di vivere sotto il perdono del vincitore. In Spagna, a Munda, Cesare affrontò l’ultima grande resistenza dei figli di Pompeo."
+    },
+    {
+      "id": "rubicone-problema-irrisolto",
+      "title": "Il problema non risolto",
+      "text": "Nel 45 a.C. la guerra sembrava conclusa. Cesare era il padrone del mondo romano. Ma vincere tutti i nemici non significava aver risolto il problema politico che aveva prodotto la guerra."
+    }
+  ],
+  "essentials": [
+    "Nel gennaio 49 a.C. Cesare ricevette l’ordine di deporre il comando.",
+    "Il passaggio armato del Rubicone violò il limite del comando provinciale.",
+    "Cesare legittimò la propria azione come difesa dei tribuni e della dignitas.",
+    "La clemenza fu anche uno strumento politico contro i pompeiani.",
+    "Farsalo nel 48 a.C. fu la vittoria decisiva su Pompeo.",
+    "Le campagne terminarono con Tapso e Munda."
+  ],
+  "glossary": [
+    [
+      "Rubicone",
+      "Fiume che segnava il limite tra la provincia di Cesare e l’Italia."
+    ],
+    [
+      "Senatus consultum ultimum",
+      "Decreto d’emergenza con cui il Senato affidava ai magistrati la difesa dello Stato."
+    ],
+    [
+      "Guerra civile",
+      "Conflitto armato tra cittadini dello stesso Stato."
+    ],
+    [
+      "Clementia",
+      "Perdono politico concesso dal vincitore agli avversari."
+    ],
+    [
+      "Farsalo",
+      "Battaglia del 48 a.C. in cui Cesare sconfisse Pompeo."
+    ],
+    [
+      "Veni, vidi, vici",
+      "Formula con cui Cesare sintetizzò la rapida vittoria su Farnace."
+    ],
+    [
+      "Imperium",
+      "Potere legale di comando civile e militare."
+    ],
+    [
+      "Dignitas",
+      "Prestigio pubblico e rango che un aristocratico riteneva di dover difendere."
+    ]
+  ],
+  "summary": "Attraversando il Rubicone Cesare trasformò una crisi istituzionale in guerra civile. Sconfisse Pompeo e le successive resistenze, ma la vittoria militare non risolse la questione della forma politica del potere.",
+  "timeline": [
+    [
+      "Gennaio 49 a.C.",
+      "Passaggio del Rubicone"
+    ],
+    [
+      "49 a.C.",
+      "Campagna di Spagna"
+    ],
+    [
+      "48 a.C.",
+      "Durazzo e Farsalo"
+    ],
+    [
+      "48–47 a.C.",
+      "Guerra alessandrina"
+    ],
+    [
+      "47 a.C.",
+      "Vittoria su Farnace"
+    ],
+    [
+      "46 a.C.",
+      "Tapso"
+    ],
+    [
+      "45 a.C.",
+      "Munda"
+    ]
+  ],
+  "schema": [
+    "Ultimatum del Senato",
+    "Passaggio del Rubicone",
+    "Avanzata in Italia",
+    "Campagna di Spagna",
+    "Vittoria di Farsalo",
+    "Guerre in Egitto, Asia, Africa e Spagna",
+    "Supremazia militare",
+    "Problema politico ancora irrisolto"
+  ]
+}
