@@ -1,0 +1,57 @@
+{
+  "title": "Manuale Vivo — Storia II",
+  "subtitle": "Dalla crisi della Repubblica alla nascita dell’Europa medievale",
+  "modules": [
+    {
+      "id": "repubblica-impero",
+      "title": "La Repubblica diventa Impero",
+      "period": "II–I secolo a.C.",
+      "progress": 0,
+      "lessons": [
+        {
+          "id": "crisi-repubblica",
+          "title": "La crisi della Repubblica",
+          "status": "soon"
+        },
+        {
+          "id": "gallia",
+          "title": "Cesare e la Gallia",
+          "status": "soon"
+        },
+        {
+          "id": "il-rubicone",
+          "title": "Il Rubicone",
+          "status": "available"
+        },
+        {
+          "id": "dittatore",
+          "title": "Il dittatore e il riformatore",
+          "status": "soon"
+        },
+        {
+          "id": "idi-marzo",
+          "title": "Le Idi di marzo",
+          "status": "soon"
+        }
+      ]
+    },
+    {
+      "id": "potere-sangue",
+      "title": "Il potere e il sangue",
+      "period": "14–69 d.C.",
+      "status": "soon"
+    },
+    {
+      "id": "flavi-diocleziano",
+      "title": "Dai Flavi a Diocleziano",
+      "period": "69–305 d.C.",
+      "status": "soon"
+    },
+    {
+      "id": "tarda-antichita",
+      "title": "Dall’Impero tardoantico a Carlo Magno",
+      "period": "IV–IX secolo",
+      "status": "soon"
+    }
+  ]
+}
