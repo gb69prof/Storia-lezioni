@@ -1,0 +1,15 @@
+{
+  "name": "Manuale Vivo — Storia II",
+  "short_name": "Storia II",
+  "description": "Dalla crisi della Repubblica all'Impero carolingio: lezioni, mappe, quiz, recupero e appunti.",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f0e6",
+  "theme_color": "#27231d",
+  "lang": "it",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
