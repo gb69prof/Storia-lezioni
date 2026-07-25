@@ -1,0 +1,189 @@
+{
+  "lessonId": "il-rubicone",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Perché il passaggio del Rubicone costituiva una violazione politica?",
+      "options": [
+        "Perché un proconsole non poteva entrare armato in Italia mantenendo il comando delle legioni.",
+        "Perché il fiume era sacro e nessun esercito romano poteva attraversarlo.",
+        "Perché Cesare era già stato sconfitto formalmente da Pompeo."
+      ],
+      "correct": 0,
+      "block": "rubicone-passaggio",
+      "mis": [
+        "",
+        "Il problema non era religioso: il Rubicone segnava un limite giuridico dell’imperium provinciale.",
+        "La guerra contro Pompeo iniziò proprio con il passaggio; Farsalo avvenne soltanto l’anno seguente."
+      ],
+      "check": "Quale elemento rese politicamente decisivo il passaggio?",
+      "checkOptions": [
+        "La presenza della legione agli ordini di Cesare",
+        "Una cerimonia religiosa",
+        "La sconfitta di Pompeo"
+      ],
+      "checkCorrect": 0
+    },
+    {
+      "id": "q2",
+      "text": "Che funzione aveva il senatus consultum ultimum?",
+      "options": [
+        "Affidava ai magistrati la difesa straordinaria dello Stato.",
+        "Eleggeva automaticamente Cesare dittatore.",
+        "Concedeva ai tribuni un comando militare."
+      ],
+      "correct": 0,
+      "block": "rubicone-ultimatum",
+      "mis": [
+        "",
+        "Era un provvedimento del Senato contro la minaccia percepita, non una nomina di Cesare.",
+        "I tribuni proteggevano politicamente la plebe, ma il decreto non attribuiva loro eserciti."
+      ],
+      "check": "Chi riceveva il compito di difendere lo Stato?",
+      "checkOptions": [
+        "I magistrati",
+        "Cesare",
+        "Cleopatra"
+      ],
+      "checkCorrect": 0
+    },
+    {
+      "id": "q3",
+      "text": "Come Cesare presentò pubblicamente la propria azione?",
+      "options": [
+        "Come difesa della dignitas, dei tribuni e della libertà del popolo.",
+        "Come conquista personale dell’Egitto.",
+        "Come vendetta per la morte di Pompeo."
+      ],
+      "correct": 0,
+      "block": "rubicone-legittimazione",
+      "mis": [
+        "",
+        "L’intervento in Egitto avvenne più tardi e non fu la giustificazione del Rubicone.",
+        "Pompeo era ancora vivo quando Cesare attraversò il Rubicone."
+      ],
+      "check": "Quale gruppo istituzionale Cesare dichiarò di difendere?",
+      "checkOptions": [
+        "I tribuni della plebe",
+        "La corte tolemaica",
+        "I re gallici"
+      ],
+      "checkCorrect": 0
+    },
+    {
+      "id": "q4",
+      "text": "Perché la clemenza di Cesare era anche uno strumento politico?",
+      "options": [
+        "Distingueva Cesare dalle proscrizioni di Silla e isolava Pompeo.",
+        "Impediva alle legioni di combattere.",
+        "Restituiva immediatamente il potere al Senato."
+      ],
+      "correct": 0,
+      "block": "rubicone-clemenza",
+      "mis": [
+        "",
+        "La clemenza riguardava il trattamento degli avversari, non lo scioglimento dell’esercito.",
+        "Cesare non rinunciò al comando; usò il perdono per rafforzare la propria posizione."
+      ],
+      "check": "Da quale precedente violento voleva distinguersi Cesare?",
+      "checkOptions": [
+        "Le proscrizioni di Silla",
+        "Le guerre puniche",
+        "La monarchia etrusca"
+      ],
+      "checkCorrect": 0
+    },
+    {
+      "id": "q5",
+      "text": "Quale battaglia fu decisiva contro Pompeo?",
+      "options": [
+        "Farsalo",
+        "Tapso",
+        "Munda"
+      ],
+      "correct": 0,
+      "block": "rubicone-farsalo",
+      "mis": [
+        "",
+        "Tapso colpì le successive forze repubblicane in Africa.",
+        "Munda fu l’ultima grande resistenza dei figli di Pompeo in Spagna."
+      ],
+      "check": "In quale anno avvenne Farsalo?",
+      "checkOptions": [
+        "48 a.C.",
+        "49 d.C.",
+        "45 d.C."
+      ],
+      "checkCorrect": 0
+    },
+    {
+      "id": "q6",
+      "text": "Perché la morte di Pompeo offrì a Cesare anche un vantaggio politico?",
+      "options": [
+        "Poteva onorare il rivale morto e condannare l’atto di una corte straniera.",
+        "Gli permetteva di dichiarare terminata ogni guerra nello stesso giorno.",
+        "Lo trasformava automaticamente in re d’Egitto."
+      ],
+      "correct": 0,
+      "block": "rubicone-pompeo",
+      "mis": [
+        "",
+        "La guerra civile continuò in Africa e Spagna.",
+        "Cesare intervenne in Egitto, ma non divenne automaticamente re."
+      ],
+      "check": "Pompeo morto diventava soprattutto…",
+      "checkOptions": [
+        "Un simbolo politico",
+        "Un comandante cesariano",
+        "Un tribuno della plebe"
+      ],
+      "checkCorrect": 0
+    },
+    {
+      "id": "q7",
+      "text": "Che cosa sintetizzava la formula veni, vidi, vici?",
+      "options": [
+        "La rapidità della vittoria su Farnace.",
+        "Il passaggio del Rubicone.",
+        "La clemenza verso i pompeiani."
+      ],
+      "correct": 0,
+      "block": "rubicone-campagne-finali",
+      "mis": [
+        "",
+        "Il Rubicone è associato alla tradizione del dado tratto.",
+        "La formula riguardava una campagna militare rapida, non il perdono politico."
+      ],
+      "check": "Contro chi combatté Cesare nella campagna ricordata dalla formula?",
+      "checkOptions": [
+        "Farnace del Ponto",
+        "Pompeo a Farsalo",
+        "Vercingetorige"
+      ],
+      "checkCorrect": 0
+    },
+    {
+      "id": "q8",
+      "text": "Quale problema rimaneva irrisolto dopo la vittoria militare di Cesare?",
+      "options": [
+        "La forma politica del potere e il futuro delle istituzioni repubblicane.",
+        "La conquista della Gallia, mai iniziata.",
+        "L’esistenza dell’esercito di Annibale in Italia."
+      ],
+      "correct": 0,
+      "block": "rubicone-problema-irrisolto",
+      "mis": [
+        "",
+        "La Gallia era stata conquistata prima della guerra civile.",
+        "Annibale appartiene a una fase storica molto precedente."
+      ],
+      "check": "Vincere i nemici equivaleva a risolvere la crisi istituzionale?",
+      "checkOptions": [
+        "No",
+        "Sì, automaticamente",
+        "Solo secondo Pompeo"
+      ],
+      "checkCorrect": 0
+    }
+  ]
+}
