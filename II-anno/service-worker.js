@@ -1,5 +1,5 @@
-const CACHE='manuale-vivo-storia-ii-v3';
-const SHELL=['./','./index.html','./styles/app.css','./styles/fixes.css','./scripts/app.js','./scripts/fixes.js','./scripts/db.js','./data/manuale-part-1.js','./data/manuale-part-2.js','./data/manuale-part-3.js','./data/manuale-part-4.js','./manifest.webmanifest','./assets/icon.svg'];
+const CACHE='manuale-vivo-storia-ii-v4';
+const SHELL=['./','./index.html','./styles/app.css','./styles/fixes.css','./scripts/app.js','./scripts/fixes.js','./scripts/notes-v2.js','./scripts/db.js','./data/manuale-part-1.js','./data/manuale-part-2.js','./data/manuale-part-3.js','./data/manuale-part-4.js','./manifest.webmanifest','./assets/icon.svg'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{
