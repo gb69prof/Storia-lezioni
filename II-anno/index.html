@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#27231d">
+  <meta name="description" content="Manuale Vivo di Storia II: dalla crisi della Repubblica all'Impero carolingio.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon.svg">
+  <link rel="stylesheet" href="styles/app.css">
+  <title>Manuale Vivo — Storia II</title>
+</head>
+<body>
+  <a class="skip-link" href="#app">Salta al contenuto</a>
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="Manuale Vivo, Home">
+      <span class="brand-mark" aria-hidden="true">MV</span>
+      <span><strong>Manuale Vivo</strong><small>Storia II</small></span>
+    </a>
+    <nav class="main-nav" aria-label="Navigazione principale">
+      <a href="#/">Home</a>
+      <a href="#/modules">Percorsi</a>
+      <a href="#/notes">Appunti</a>
+      <a href="#/search">Ricerca</a>
+      <a href="#/progress">Progressi</a>
+    </nav>
+    <div class="top-actions">
+      <button id="installBtn" class="icon-btn is-hidden" type="button" aria-label="Installa l'app">＋</button>
+      <button id="themeBtn" class="icon-btn" type="button" aria-label="Cambia tema">◐</button>
+      <button id="settingsBtn" class="icon-btn" type="button" aria-label="Impostazioni di lettura">Aa</button>
+    </div>
+  </header>
+  <main id="app" tabindex="-1"></main>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <dialog id="settingsDialog" class="dialog">
+    <form method="dialog" class="dialog-card">
+      <div class="dialog-head"><h2>Impostazioni di lettura</h2><button value="cancel" aria-label="Chiudi">×</button></div>
+      <label>Dimensione del testo
+        <input id="fontSize" type="range" min="16" max="23" value="18">
+      </label>
+      <label class="check-row"><input id="highContrast" type="checkbox"> Contrasto elevato</label>
+      <label class="check-row"><input id="reduceMotion" type="checkbox"> Riduci le animazioni</label>
+      <button class="button primary" value="cancel">Chiudi</button>
+    </form>
+  </dialog>
+
+  <dialog id="noteDialog" class="dialog">
+    <form method="dialog" class="dialog-card" id="noteDialogForm">
+      <div class="dialog-head"><h2>Aggiungi una nota</h2><button value="cancel" aria-label="Chiudi">×</button></div>
+      <blockquote id="noteQuote"></blockquote>
+      <label>Titolo<input id="dialogNoteTitle" type="text"></label>
+      <label>Nota<textarea id="dialogNoteBody" rows="7"></textarea></label>
+      <div class="button-row"><button value="cancel">Annulla</button><button id="dialogNoteSave" class="button primary" value="default">Salva negli appunti</button></div>
+    </form>
+  </dialog>
+
+  <dialog id="imageDialog" class="dialog image-dialog">
+    <form method="dialog" class="image-dialog-card">
+      <button class="image-close" value="cancel" aria-label="Chiudi immagine">×</button>
+      <img id="largeMap" alt="">
+    </form>
+  </dialog>
+
+  <script type="module" src="scripts/app.js"></script>
+</body>
+</html>
